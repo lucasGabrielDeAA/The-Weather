@@ -1,5 +1,5 @@
 # The-Weather
-Aplicativo criado em HTML5, com javascript e jquery mobile.
+Aplicativo criado em HTML5 e javascript e visual criado utilizando jquery mobile.
 
 Para a execução do aplicativo:
 
